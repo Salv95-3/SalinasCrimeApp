@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Salinas Crime Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="plot_1_20">Load 1 - 20</string>
+    <string name="plot_21_40">Load 21 - 40</string>
+    <string name="plot_41_60">Load 41 - 60</string>
+    <string name="plot_61_80">Load 61 - 80</string>
+    <string name="plot_81_100">Load 81 - 100</string>
+</resources>

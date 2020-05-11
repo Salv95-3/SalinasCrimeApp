@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:id="@+id/slideNav"
+    >
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/plot1_20"
+            android:icon="@drawable/app3"
+            android:title="@string/plot_1_20"/>
+        <item
+            android:id="@+id/plot21_40"
+            android:icon="@drawable/app3"
+            android:title="@string/plot_21_40" />
+        <item
+            android:id="@+id/plot41_60"
+            android:icon="@drawable/app3"
+            android:title="@string/plot_41_60" />
+        <item
+            android:id="@+id/plot61_80"
+            android:icon="@drawable/app3"
+            android:title="@string/plot_61_80" />
+        <item
+            android:id="@+id/plot81_100"
+            android:icon="@drawable/app3"
+            android:title="@string/plot_81_100" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="@string/menu_share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="@string/menu_send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
